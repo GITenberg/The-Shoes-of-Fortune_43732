@@ -1,0 +1,36 @@
+_repo: The-Shoes-of-Fortune_43732
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boyd, A. S. (Alexander Stuart)
+    alias: Boyd, Alexander Stuart
+    birthdate: 1854
+    deathdate: &id001 1930
+    gutenberg_agent_id: '4548'
+    url: http://www.gutenberg.org/2009/agents/4548
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munro, Neil
+    alias: Foulis, Hugh
+    birthdate: 1864
+    deathdate: *id001
+    gutenberg_agent_id: '9862'
+    url: http://www.gutenberg.org/2009/agents/9862
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: The Shoes of Fortune
+url: http://www.gutenberg.org/ebooks/43732
