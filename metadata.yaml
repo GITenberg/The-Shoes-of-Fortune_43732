@@ -5,7 +5,7 @@ contributor:
     agent_name: Boyd, A. S. (Alexander Stuart)
     alias: Boyd, Alexander Stuart
     birthdate: 1854
-    deathdate: &id001 1930
+    deathdate: 1930
     gutenberg_agent_id: '4548'
     url: http://www.gutenberg.org/2009/agents/4548
 covers:
@@ -16,10 +16,12 @@ creator:
     agent_name: Munro, Neil
     alias: Foulis, Hugh
     birthdate: 1864
-    deathdate: *id001
+    deathdate: 1930
     gutenberg_agent_id: '9862'
     url: http://www.gutenberg.org/2009/agents/9862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43732#The-Shoes-of-Fortune
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
